@@ -2,6 +2,7 @@
 
 Notes:
 - Using Unity version 2020.3.32f1
+- Vuforia Engine 10.7.2 required to be installed manually
 - The vuforia .tgz file should be manually added to the package folder since it's too large to upload.
 - PUN2 also needs to be added in the assets list of the project
 

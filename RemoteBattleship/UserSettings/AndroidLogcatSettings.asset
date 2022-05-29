@@ -1,0 +1,707 @@
+{
+    "m_SelectedDeviceId": "RZ8R21HHQSV",
+    "m_SelectedPackage": {
+        "deviceId": "RZ8R21HHQSV",
+        "name": "com.vuforia.engine.VuforiaEngine",
+        "processId": 19393,
+        "exited": false
+    },
+    "m_SelectedPriority": 0,
+    "m_KnownPackagesForSerialization": [
+        {
+            "deviceId": "85aba2d",
+            "name": "com.vuforia.engine.VuforiaEngine",
+            "processId": 20583,
+            "exited": false
+        },
+        {
+            "deviceId": "85aba2d",
+            "name": "com.vuforia.engine.VuforiaEngine",
+            "processId": 21811,
+            "exited": false
+        },
+        {
+            "deviceId": "85aba2d",
+            "name": "com.vuforia.engine.VuforiaEngine",
+            "processId": 22598,
+            "exited": false
+        },
+        {
+            "deviceId": "85aba2d",
+            "name": "com.vuforia.engine.VuforiaEngine",
+            "processId": 23043,
+            "exited": false
+        },
+        {
+            "deviceId": "85aba2d",
+            "name": "com.vuforia.engine.VuforiaEngine",
+            "processId": 24754,
+            "exited": false
+        },
+        {
+            "deviceId": "85aba2d",
+            "name": "com.vuforia.engine.VuforiaEngine",
+            "processId": 28182,
+            "exited": false
+        },
+        {
+            "deviceId": "85aba2d",
+            "name": "com.vuforia.engine.VuforiaEngine",
+            "processId": 30125,
+            "exited": false
+        },
+        {
+            "deviceId": "85aba2d",
+            "name": "com.vuforia.engine.VuforiaEngine",
+            "processId": 6329,
+            "exited": false
+        },
+        {
+            "deviceId": "85aba2d",
+            "name": "com.vuforia.engine.VuforiaEngine",
+            "processId": 8957,
+            "exited": false
+        },
+        {
+            "deviceId": "3c8f148c",
+            "name": "com.vuforia.engine.VuforiaEngine",
+            "processId": 20515,
+            "exited": false
+        },
+        {
+            "deviceId": "3c8f148c",
+            "name": "com.vuforia.engine.VuforiaEngine",
+            "processId": 20517,
+            "exited": false
+        },
+        {
+            "deviceId": "3c8f148c",
+            "name": "com.vuforia.engine.VuforiaEngine",
+            "processId": 27477,
+            "exited": false
+        },
+        {
+            "deviceId": "3c8f148c",
+            "name": "com.vuforia.engine.VuforiaEngine",
+            "processId": 27478,
+            "exited": false
+        },
+        {
+            "deviceId": "RZ8R21HHQSV",
+            "name": "com.vuforia.engine.VuforiaEngine",
+            "processId": 11072,
+            "exited": false
+        },
+        {
+            "deviceId": "RZ8R21HHQSV",
+            "name": "com.vuforia.engine.VuforiaEngine",
+            "processId": 14324,
+            "exited": false
+        },
+        {
+            "deviceId": "RZ8R21HHQSV",
+            "name": "com.vuforia.engine.VuforiaEngine",
+            "processId": 15537,
+            "exited": false
+        },
+        {
+            "deviceId": "RZ8R21HHQSV",
+            "name": "com.vuforia.engine.VuforiaEngine",
+            "processId": 10627,
+            "exited": false
+        },
+        {
+            "deviceId": "RZ8R21HHQSV",
+            "name": "com.vuforia.engine.VuforiaEngine",
+            "processId": 11765,
+            "exited": false
+        },
+        {
+            "deviceId": "RZ8R21HHQSV",
+            "name": "com.vuforia.engine.VuforiaEngine",
+            "processId": 23268,
+            "exited": false
+        },
+        {
+            "deviceId": "RZ8R21HHQSV",
+            "name": "com.vuforia.engine.VuforiaEngine",
+            "processId": 24743,
+            "exited": false
+        },
+        {
+            "deviceId": "RZ8R21HHQSV",
+            "name": "com.vuforia.engine.VuforiaEngine",
+            "processId": 26419,
+            "exited": false
+        },
+        {
+            "deviceId": "RZ8R21HHQSV",
+            "name": "com.vuforia.engine.VuforiaEngine",
+            "processId": 29513,
+            "exited": false
+        },
+        {
+            "deviceId": "RZ8R21HHQSV",
+            "name": "com.vuforia.engine.VuforiaEngine",
+            "processId": 29945,
+            "exited": false
+        },
+        {
+            "deviceId": "RZ8R21HHQSV",
+            "name": "com.vuforia.engine.VuforiaEngine",
+            "processId": 30928,
+            "exited": false
+        },
+        {
+            "deviceId": "RZ8R21HHQSV",
+            "name": "com.vuforia.engine.VuforiaEngine",
+            "processId": 2402,
+            "exited": false
+        },
+        {
+            "deviceId": "RZ8R21HHQSV",
+            "name": "com.vuforia.engine.VuforiaEngine",
+            "processId": 4047,
+            "exited": false
+        },
+        {
+            "deviceId": "RZ8R21HHQSV",
+            "name": "com.vuforia.engine.VuforiaEngine",
+            "processId": 13349,
+            "exited": false
+        },
+        {
+            "deviceId": "RZ8R21HHQSV",
+            "name": "com.vuforia.engine.VuforiaEngine",
+            "processId": 16027,
+            "exited": false
+        },
+        {
+            "deviceId": "RZ8R21HHQSV",
+            "name": "com.vuforia.engine.VuforiaEngine",
+            "processId": 16737,
+            "exited": false
+        },
+        {
+            "deviceId": "RZ8R21HHQSV",
+            "name": "com.vuforia.engine.VuforiaEngine",
+            "processId": 29927,
+            "exited": false
+        },
+        {
+            "deviceId": "RZ8R21HHQSV",
+            "name": "com.vuforia.engine.VuforiaEngine",
+            "processId": 5617,
+            "exited": false
+        },
+        {
+            "deviceId": "RZ8R21HHQSV",
+            "name": "com.vuforia.engine.VuforiaEngine",
+            "processId": 6535,
+            "exited": false
+        },
+        {
+            "deviceId": "RZ8R21HHQSV",
+            "name": "com.vuforia.engine.VuforiaEngine",
+            "processId": 6882,
+            "exited": false
+        },
+        {
+            "deviceId": "RZ8R21HHQSV",
+            "name": "com.vuforia.engine.VuforiaEngine",
+            "processId": 8151,
+            "exited": false
+        },
+        {
+            "deviceId": "RZ8R21HHQSV",
+            "name": "com.vuforia.engine.VuforiaEngine",
+            "processId": 12691,
+            "exited": false
+        },
+        {
+            "deviceId": "RZ8R21HHQSV",
+            "name": "com.vuforia.engine.VuforiaEngine",
+            "processId": 14443,
+            "exited": false
+        },
+        {
+            "deviceId": "RZ8R21HHQSV",
+            "name": "com.vuforia.engine.VuforiaEngine",
+            "processId": 15742,
+            "exited": false
+        },
+        {
+            "deviceId": "RZ8R21HHQSV",
+            "name": "com.vuforia.engine.VuforiaEngine",
+            "processId": 17456,
+            "exited": false
+        },
+        {
+            "deviceId": "RZ8R21HHQSV",
+            "name": "com.vuforia.engine.VuforiaEngine",
+            "processId": 18469,
+            "exited": false
+        },
+        {
+            "deviceId": "RZ8R21HHQSV",
+            "name": "com.vuforia.engine.VuforiaEngine",
+            "processId": 19689,
+            "exited": false
+        },
+        {
+            "deviceId": "RZ8R21HHQSV",
+            "name": "com.vuforia.engine.VuforiaEngine",
+            "processId": 21465,
+            "exited": false
+        },
+        {
+            "deviceId": "RZ8R21HHQSV",
+            "name": "com.vuforia.engine.VuforiaEngine",
+            "processId": 23962,
+            "exited": false
+        },
+        {
+            "deviceId": "RZ8R21HHQSV",
+            "name": "com.vuforia.engine.VuforiaEngine",
+            "processId": 24391,
+            "exited": false
+        },
+        {
+            "deviceId": "RZ8R21HHQSV",
+            "name": "com.vuforia.engine.VuforiaEngine",
+            "processId": 26622,
+            "exited": false
+        },
+        {
+            "deviceId": "RZ8R21HHQSV",
+            "name": "com.vuforia.engine.VuforiaEngine",
+            "processId": 27215,
+            "exited": false
+        },
+        {
+            "deviceId": "RZ8R21HHQSV",
+            "name": "com.vuforia.engine.VuforiaEngine",
+            "processId": 30137,
+            "exited": false
+        },
+        {
+            "deviceId": "RZ8R21HHQSV",
+            "name": "com.vuforia.engine.VuforiaEngine",
+            "processId": 30673,
+            "exited": false
+        },
+        {
+            "deviceId": "RZ8R21HHQSV",
+            "name": "com.vuforia.engine.VuforiaEngine",
+            "processId": 32140,
+            "exited": false
+        },
+        {
+            "deviceId": "RZ8R21HHQSV",
+            "name": "com.vuforia.engine.VuforiaEngine",
+            "processId": 2163,
+            "exited": false
+        },
+        {
+            "deviceId": "RZ8R21HHQSV",
+            "name": "com.vuforia.engine.VuforiaEngine",
+            "processId": 4792,
+            "exited": false
+        },
+        {
+            "deviceId": "RZ8R21HHQSV",
+            "name": "com.vuforia.engine.VuforiaEngine",
+            "processId": 8156,
+            "exited": false
+        },
+        {
+            "deviceId": "RZ8R21HHQSV",
+            "name": "com.vuforia.engine.VuforiaEngine",
+            "processId": 8336,
+            "exited": false
+        },
+        {
+            "deviceId": "RZ8R21HHQSV",
+            "name": "com.vuforia.engine.VuforiaEngine",
+            "processId": 9058,
+            "exited": false
+        },
+        {
+            "deviceId": "RZ8R21HHQSV",
+            "name": "com.vuforia.engine.VuforiaEngine",
+            "processId": 9729,
+            "exited": false
+        },
+        {
+            "deviceId": "RZ8R21HHQSV",
+            "name": "com.vuforia.engine.VuforiaEngine",
+            "processId": 17666,
+            "exited": false
+        },
+        {
+            "deviceId": "RZ8R21HHQSV",
+            "name": "com.vuforia.engine.VuforiaEngine",
+            "processId": 19239,
+            "exited": false
+        },
+        {
+            "deviceId": "RZ8R21HHQSV",
+            "name": "com.vuforia.engine.VuforiaEngine",
+            "processId": 19673,
+            "exited": false
+        },
+        {
+            "deviceId": "RZ8R21HHQSV",
+            "name": "com.vuforia.engine.VuforiaEngine",
+            "processId": 23374,
+            "exited": false
+        },
+        {
+            "deviceId": "RZ8R21HHQSV",
+            "name": "com.vuforia.engine.VuforiaEngine",
+            "processId": 26095,
+            "exited": false
+        },
+        {
+            "deviceId": "RZ8R21HHQSV",
+            "name": "com.vuforia.engine.VuforiaEngine",
+            "processId": 28582,
+            "exited": false
+        },
+        {
+            "deviceId": "RZ8R21HHQSV",
+            "name": "com.vuforia.engine.VuforiaEngine",
+            "processId": 29333,
+            "exited": false
+        },
+        {
+            "deviceId": "RZ8R21HHQSV",
+            "name": "com.vuforia.engine.VuforiaEngine",
+            "processId": 29963,
+            "exited": false
+        },
+        {
+            "deviceId": "RZ8R21HHQSV",
+            "name": "com.vuforia.engine.VuforiaEngine",
+            "processId": 32044,
+            "exited": false
+        },
+        {
+            "deviceId": "RZ8R21HHQSV",
+            "name": "com.vuforia.engine.VuforiaEngine",
+            "processId": 10141,
+            "exited": false
+        },
+        {
+            "deviceId": "RZ8R21HHQSV",
+            "name": "com.vuforia.engine.VuforiaEngine",
+            "processId": 12597,
+            "exited": false
+        },
+        {
+            "deviceId": "RZ8R21HHQSV",
+            "name": "com.vuforia.engine.VuforiaEngine",
+            "processId": 14816,
+            "exited": false
+        },
+        {
+            "deviceId": "RZ8R21HHQSV",
+            "name": "com.vuforia.engine.VuforiaEngine",
+            "processId": 18846,
+            "exited": false
+        },
+        {
+            "deviceId": "RZ8R21HHQSV",
+            "name": "com.vuforia.engine.VuforiaEngine",
+            "processId": 20410,
+            "exited": false
+        },
+        {
+            "deviceId": "RZ8R21HHQSV",
+            "name": "com.vuforia.engine.VuforiaEngine",
+            "processId": 20711,
+            "exited": false
+        },
+        {
+            "deviceId": "RZ8R21HHQSV",
+            "name": "com.vuforia.engine.VuforiaEngine",
+            "processId": 22303,
+            "exited": false
+        },
+        {
+            "deviceId": "RZ8R21HHQSV",
+            "name": "com.vuforia.engine.VuforiaEngine",
+            "processId": 23436,
+            "exited": false
+        },
+        {
+            "deviceId": "RZ8R21HHQSV",
+            "name": "com.vuforia.engine.VuforiaEngine",
+            "processId": 26525,
+            "exited": false
+        },
+        {
+            "deviceId": "RZ8R21HHQSV",
+            "name": "com.vuforia.engine.VuforiaEngine",
+            "processId": 3040,
+            "exited": false
+        },
+        {
+            "deviceId": "RZ8R21HHQSV",
+            "name": "com.vuforia.engine.VuforiaEngine",
+            "processId": 3678,
+            "exited": false
+        },
+        {
+            "deviceId": "RZ8R21HHQSV",
+            "name": "com.vuforia.engine.VuforiaEngine",
+            "processId": 4705,
+            "exited": false
+        },
+        {
+            "deviceId": "RZ8R21HHQSV",
+            "name": "com.vuforia.engine.VuforiaEngine",
+            "processId": 8683,
+            "exited": false
+        },
+        {
+            "deviceId": "RZ8R21HHQSV",
+            "name": "com.vuforia.engine.VuforiaEngine",
+            "processId": 11876,
+            "exited": false
+        },
+        {
+            "deviceId": "RZ8R21HHQSV",
+            "name": "com.vuforia.engine.VuforiaEngine",
+            "processId": 12412,
+            "exited": false
+        },
+        {
+            "deviceId": "RZ8R21HHQSV",
+            "name": "com.vuforia.engine.VuforiaEngine",
+            "processId": 13782,
+            "exited": false
+        },
+        {
+            "deviceId": "RZ8R21HHQSV",
+            "name": "com.vuforia.engine.VuforiaEngine",
+            "processId": 18066,
+            "exited": false
+        },
+        {
+            "deviceId": "RZ8R21HHQSV",
+            "name": "com.vuforia.engine.VuforiaEngine",
+            "processId": 18629,
+            "exited": false
+        },
+        {
+            "deviceId": "RZ8R21HHQSV",
+            "name": "com.vuforia.engine.VuforiaEngine",
+            "processId": 21639,
+            "exited": false
+        },
+        {
+            "deviceId": "RZ8R21HHQSV",
+            "name": "com.vuforia.engine.VuforiaEngine",
+            "processId": 22605,
+            "exited": false
+        },
+        {
+            "deviceId": "RZ8R21HHQSV",
+            "name": "com.vuforia.engine.VuforiaEngine",
+            "processId": 24405,
+            "exited": false
+        },
+        {
+            "deviceId": "RZ8R21HHQSV",
+            "name": "com.vuforia.engine.VuforiaEngine",
+            "processId": 28130,
+            "exited": false
+        },
+        {
+            "deviceId": "RZ8R21HHQSV",
+            "name": "com.vuforia.engine.VuforiaEngine",
+            "processId": 7236,
+            "exited": false
+        },
+        {
+            "deviceId": "RZ8R21HHQSV",
+            "name": "com.vuforia.engine.VuforiaEngine",
+            "processId": 7895,
+            "exited": false
+        },
+        {
+            "deviceId": "RZ8R21HHQSV",
+            "name": "com.vuforia.engine.VuforiaEngine",
+            "processId": 9369,
+            "exited": false
+        },
+        {
+            "deviceId": "RZ8R21HHQSV",
+            "name": "com.vuforia.engine.VuforiaEngine",
+            "processId": 10617,
+            "exited": false
+        },
+        {
+            "deviceId": "RZ8R21HHQSV",
+            "name": "com.vuforia.engine.VuforiaEngine",
+            "processId": 27943,
+            "exited": false
+        },
+        {
+            "deviceId": "RZ8R21HHQSV",
+            "name": "com.vuforia.engine.VuforiaEngine",
+            "processId": 30459,
+            "exited": false
+        },
+        {
+            "deviceId": "RZ8R21HHQSV",
+            "name": "com.vuforia.engine.VuforiaEngine",
+            "processId": 4262,
+            "exited": false
+        },
+        {
+            "deviceId": "RZ8R21HHQSV",
+            "name": "com.vuforia.engine.VuforiaEngine",
+            "processId": 5329,
+            "exited": false
+        },
+        {
+            "deviceId": "RZ8R21HHQSV",
+            "name": "com.vuforia.engine.VuforiaEngine",
+            "processId": 6525,
+            "exited": false
+        },
+        {
+            "deviceId": "RZ8R21HHQSV",
+            "name": "com.vuforia.engine.VuforiaEngine",
+            "processId": 7834,
+            "exited": false
+        },
+        {
+            "deviceId": "RZ8R21HHQSV",
+            "name": "com.vuforia.engine.VuforiaEngine",
+            "processId": 8885,
+            "exited": false
+        },
+        {
+            "deviceId": "RZ8R21HHQSV",
+            "name": "com.vuforia.engine.VuforiaEngine",
+            "processId": 11976,
+            "exited": false
+        },
+        {
+            "deviceId": "RZ8R21HHQSV",
+            "name": "com.vuforia.engine.VuforiaEngine",
+            "processId": 13706,
+            "exited": false
+        },
+        {
+            "deviceId": "RZ8R21HHQSV",
+            "name": "com.vuforia.engine.VuforiaEngine",
+            "processId": 15036,
+            "exited": false
+        },
+        {
+            "deviceId": "RZ8R21HHQSV",
+            "name": "com.vuforia.engine.VuforiaEngine",
+            "processId": 19393,
+            "exited": false
+        },
+        {
+            "deviceId": "ce0617168d12461c03",
+            "name": "com.vuforia.engine.VuforiaEngine",
+            "processId": 5722,
+            "exited": true
+        },
+        {
+            "deviceId": "ce0617168d12461c03",
+            "name": "com.vuforia.engine.VuforiaEngine",
+            "processId": 25972,
+            "exited": true
+        },
+        {
+            "deviceId": "ce0617168d12461c03",
+            "name": "com.vuforia.engine.VuforiaEngine",
+            "processId": 30928,
+            "exited": true
+        },
+        {
+            "deviceId": "ce0617168d12461c03",
+            "name": "com.vuforia.engine.VuforiaEngine",
+            "processId": 2916,
+            "exited": true
+        },
+        {
+            "deviceId": "ce0617168d12461c03",
+            "name": "com.vuforia.engine.VuforiaEngine",
+            "processId": 8781,
+            "exited": false
+        },
+        {
+            "deviceId": "ce0617168d12461c03",
+            "name": "com.vuforia.engine.VuforiaEngine",
+            "processId": 13152,
+            "exited": false
+        },
+        {
+            "deviceId": "ce0617168d12461c03",
+            "name": "com.vuforia.engine.VuforiaEngine",
+            "processId": 18101,
+            "exited": false
+        }
+    ],
+    "m_Tags": {
+        "m_Entries": [
+            {
+                "m_Name": "Filter by all listed tags",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "No Filter",
+                "m_Selected": true
+            },
+            {
+                "m_Name": "",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "Tag Control...",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "Unity",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "CRASH",
+                "m_Selected": false
+            }
+        ]
+    },
+    "m_MemoryViewerState": {
+        "MemoryWindowHeight": 300.0,
+        "MemoryWindowWidth": 170.0,
+        "MemoryTypeEnabled": [
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true
+        ],
+        "MemoryGroup": 2,
+        "Behavior": 0
+    },
+    "m_Filter": "listening\\",
+    "m_FilterIsRegularExpression": false,
+    "m_SymbolPaths": []
+}

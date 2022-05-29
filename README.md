@@ -3,6 +3,7 @@
 Notes:
 - Using Unity version 2020.3.32f1
 - The vuforia .tgz file should be manually added to the package folder since it's too large to upload.
+- PUN2 also needs to be added in the assets list of the project
 
 (https://danilogr.github.io/AR-Marker-Generator/)
 Corner Marker features:
